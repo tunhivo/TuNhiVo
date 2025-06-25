@@ -11,6 +11,7 @@
 🌱 **Always Learning and Exploring in**  
 ```diff
 + Data Analytics · Business Intelligence · Customer Behavior · Reporting · Data Storytelling
+```
 ## 🔍 About Me
 💼 I'm a data enthusiast focused on turning **data into insights** that improve customer experience.
 
