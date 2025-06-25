@@ -33,8 +33,28 @@
 ---
 
 ## 💻 My Tech Stack
-**SQL** | **Power BI** | **Python** | **Pandas** | **Seaborn** | **Excel** | **Git**  
-**VS Code** | **Jupyter Notebook** | **Notion** | **Figma**
+
+### 🛠️ Programming & Data Tools
+- **SQL**: Writing analytical queries, generating financial reports, and automating data dashboards.
+- **Python**: Performing data analysis with Pandas, creating visualizations with Matplotlib & Seaborn, and uncovering insights through data cleaning and transformation.
+- **Power BI**: Building interactive reports, modeling data, and writing advanced DAX expressions.
+- **Excel**: Quick data exploration using formulas, PivotTables, and creating basic dashboards.
+- **Figma**: Designing clean, user-friendly data interfaces and wireframes for reporting tools or dashboards.
+
+### 🧰 Data Workflow & Automation
+- **Git & GitHub**: Version control for analytics projects, clean commit history for collaboration and tracking.
+- **VS Code / Jupyter Notebook**: Writing and running Python or SQL scripts in a flexible, visual-friendly environment.
+- **Notion**: Organizing learning notes, managing personal projects, and documenting analytics work.
+
+### 📦 Commonly Used Libraries / Packages:
+- `pandas`, `numpy` – data manipulation
+- `matplotlib`, `seaborn` – data visualization
+- `scikit-learn` – basic machine learning workflows (when applied)
+
+---
+
+> 🌱 Continuously learning and exploring new tools to improve workflows in analytics, automation, reporting, and data storytelling.
+
 
 ---
 
