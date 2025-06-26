@@ -63,4 +63,5 @@
 💌 **Email**: [tunhivo1997@gmail.com](tunhivo1997@gmail.com)
 🌐 **LinkedIn**: [tunhivo](https://www.linkedin.com/in/tunhivo1997/)  
 📂 **GitHub Portfolio**: [github.com/tunhivo](https://github.com/tunhivo)
+📞 **Phone**: [0826 722 768](tel:0826722768)
 
