@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Tú Nhi</h1>
 
 <p align="center">
-  <a href="mailto:tunhi.vo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/tunhivo"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[tunhivo1997@gmail.com](tunhivo1997@gmail.com)"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/tunhivo](https://www.linkedin.com/in/tunhivo1997/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/tunhivo"><img src="https://img.shields.io/badge/Portfolio-121011?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
